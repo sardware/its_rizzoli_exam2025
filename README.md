@@ -1,3 +1,7 @@
+-----------
+Funzione che genera un mosaico dell'immagine utilizzando forme geometriche semplici (sovrapposte)
+-----------
+
 # Esame di recupero UFS 13
 Esame di recupero esame di Machine &amp; Deep Learning for Vision &amp; Multimedia corso ITS Rizzoli percorso ML 2023-2025
 
