@@ -1,6 +1,6 @@
 # Piccole informazioni:
 
-Per un risultato ottimale, lasciare il "Low Threshold" basso, e svagarsi con quello "High" per un risultato ottimale.
+Per un risultato ottimale, lasciare il "Low Threshold" basso, e svagarsi con quello "High" per un risultato ottimale, la modalità poligono crea le immagini modificate più riconoscibili.
 
 Si preferisce una immagine non troppo chiara, se si vuole staccare bene una persona oppure un soggetto, si può usare uno
 sfondo chiaro, per fare da contrasto.
